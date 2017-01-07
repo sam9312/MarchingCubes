@@ -1,0 +1,55 @@
+————————————————————————————————————————————————————————————————
+
+
+1. Shape Modelling from Point Cloud Data:
+
+Point Cloud data are obtained by 3D scanning of the real-world 
+objects. One goal of geometric modelling is to reconstruct the corresponding
+geometric model (using the point clouds) for the computer-world.
+The proposed project will develop a prototype tool for shape Modelling
+using one mesh-based and/ one implicit function based approach.
+
+Prerequisite: Experience in C++, OpenGL, Qt.
+————————————————————————————————————————————————————————————————
+
+
+2. Computing Isosurface Measures and Statistics
+
+Isosurfaces are fundamental geometric objects which are useful
+for computer simulation of real-world objects.
+The proposed project will first develop a tool 
+for visualising isosurfaces of a given scalar field and then 
+compute different measures and statistics, e.g. surface area, 
+volume, histogram etc. corresponding to the iso-surfaces.
+
+Prerequisite: Experience in C++, OpenGL, Qt.
+————————————————————————————————————————————————————————————————
+
+
+3. Topology-based Segmentation of Scalar Data
+
+Scalar data are ubiquitous in many scientific experiments
+and simulations. Some examples are electron density, electrostatic 
+potential (of a molecule), temperature, salinity fields (of ocean data) etc.
+The idea of the proposed project is to subdivide the data-domain
+into topologically equivalent regions - that helps the domain scientists to 
+understand the characteristic of the data and the underlying phenomena.
+
+Prerequisite: Experience in C++, VTK; Scientific Visualization.
+————————————————————————————————————————————————————————————————
+
+
+4. Visualising Scalar Fields
+
+This project will aim to visualise isosurfaces of a scalar field
+using well-known Marching Cube/Marching Tetrahedron algorithm.
+Two tasks: (1) Implementing the Core Marching Cube/Tet algorithm
+in C++, OpenGL; (2) Make a Visual Interface, in Qt, C++, having 
+features - load data, scroll through different isosurfaces etc.
+
+————————————————————————————————————————————————————————————————
+
+
+
+
+
